@@ -27,7 +27,7 @@
    &kp DEL   &kp Q     &kp W     &kp F      &kp P  &kp B                    &kp J      &kp L    &kp U      &kp Y     &kp SEMI  &kp MINUS 
    &kp LCTRL &kp A     &kp R     &kp S      &kp T  &kp G                    &kp M      &kp N    &kp E      &kp I     &kp O     &kp SQT   
    &kp TAB   &kp Z     &kp X     &kp C      &kp D  &kp V                    &kp K      &kp H    &kp LBKT   &kp RBKT  &kp UP    &kp GRAVE 
-   &kp CAPS  &kp LGUI  &kp COMMA &kp PERIOD                                                     &kp FSLH   &kp LEFT  &kp DOWN  &kp RIGHT 
+   &kp CAPS  &kp LGUI  &kp COMMA &kp PERIOD &none  &none                    &none  &none &kp FSLH   &kp LEFT  &kp DOWN  &kp RIGHT 
    &kp LSHFT &kp SPACE &kp LCTRL &kp DEL    &kp HOME &kp END                &kp RSHFT  &kp RET  &kp BSPC   &kp TAB   &kp LALT  &mo 1                                                   
                         >;
                 };
