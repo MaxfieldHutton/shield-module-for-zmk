@@ -20,7 +20,7 @@
 // | CTRL |  A  |  R  |  S  |  T  |  G   |                   |   M   |   N  |   E   |  I    |  O    |  '"  | 
 // |  TAB |  Z  |  X  |  C  |  D  |  V   |                   |   K   |   H  |   [{  | }]    |  UP   |  `~  | 
 // | CAPS | GUI |  <, |  >. |-----|------|                   |-------|------|   ?/  | LFT   | DWN   | RGT  | 
-// | SHFT | SPC | CTRL| DEL | END | mo1  |                   | RSHFT | ENTR | BKSP  | TAB   | ALT   | mo1  | 
+// | SHFT | SPC | CTRL| DEL | HOME| mo1  |                   | RSHFT | ENTR | BKSP  | TAB   | ALT   | mo1  | 
 
                         bindings = <
    &kp ESC   &kp N1    &kp N2    &kp N3     &kp N4 &kp N5                   &kp N6     &kp N7   &kp N8     &kp N9    &kp N0    &kp EQUAL 
