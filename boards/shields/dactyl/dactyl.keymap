@@ -46,7 +46,7 @@
    &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4           &kp PSCRN &kp C_PP &kp C_NEXT  &kp C_VOL_DN &kp C_VOL_UP &kp C_MUTE 
    &none      &none        &none        &none        &none        &none                  &none     &none    &none       &none        &none        &none       
    &none      &none        &none        &none                                                               &kp BSLH    &none        &none        &none      
-   &trans     &trans       &trans       &trans       &END         &trans                 &trans    &trans   &trans      &trans       &trans       &trans
+   &trans     &trans       &trans       &trans       &kp END      &trans                 &trans    &trans   &trans      &trans       &trans       &trans
                         >;
                 };
         };
