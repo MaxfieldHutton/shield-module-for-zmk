@@ -28,7 +28,7 @@
    &kp LCTRL &kp A     &kp R     &kp S      &kp T  &kp G                    &kp M   &kp N     &kp E      &kp I     &kp O     &kp SQT   
    &kp TAB   &kp Z     &kp X     &kp C      &kp D  &kp V                    &kp K   &kp H     &kp LBKT   &kp RBKT  &kp UP    &kp GRAVE 
    &kp CAPS  &kp LGUI  &kp COMMA &kp PERIOD                                                   &kp FSLH   &kp LEFT  &kp DOWN  &kp RIGHT 
-   &kp LSHFT &kp SPACE &kp LCTRL &kp DEL    &kp HOME &kp END                &mo 1   &kp LALT  &kp TAB    &kp RSHFT &kp RET   &kp BSPC
+   &kp LSHFT &kp SPACE &kp LCTRL &kp DEL    &kp HOME &kp END                &mo 1   &kp LALT  &kp TAB    &kp BSPC  &kp RET   &kp RSHIFT
                         >;
                 };
                 lower_layer {
